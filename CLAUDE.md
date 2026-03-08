@@ -1,6 +1,6 @@
 ---
 mutability: controlled
-updated: 2026-03-05
+updated: 2026-03-08
 version: 1.3
 ---
 
@@ -246,6 +246,17 @@ The specific prefixes are defined in each project's `project-context.md`. Common
 - Tasks: `TS-1`, `TS-2`...
 - Sessions: `S-1`, `S-2`...
 - Ideas: `I-1`, `I-2`...
+
+---
+
+## Changelog
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | 2026-03-03 | Initial creation. Universal content extracted from `project-context.md`: P1–P6, validation gates, session protocol, contribution model, file header standard, output rules, git convention, ID convention. |
+| 1.1 | 2026-03-04 | Task Decomposition Protocol (5W + Simulation) added to Session Protocol. Impact Propagation Rule added. |
+| 1.2 | 2026-03-05 | Renamed from `README.md` to `CLAUDE.md` (Anthropic convention). |
+| 1.3 | 2026-03-05 | Sub-task Checkpoint moved to `_briefing/CLAUDE.md` (interaction protocol, not work method). |
 
 ---
 
