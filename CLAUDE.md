@@ -1,7 +1,7 @@
 ---
 mutability: controlled
-updated: 2026-03-08
-version: 1.3
+updated: 2026-03-09
+version: 1.4
 ---
 
 # Playbook — cong3 STUDIO
@@ -243,7 +243,7 @@ All trackable items use a PREFIX-NUMBER format. IDs are sequential and never reu
 
 The specific prefixes are defined in each project's `project-context.md`. Common patterns:
 
-- Tasks: `TS-1`, `TS-2`...
+- Tasks: `T-1`, `T-2`...
 - Sessions: `S-1`, `S-2`...
 - Ideas: `I-1`, `I-2`...
 
@@ -257,6 +257,7 @@ The specific prefixes are defined in each project's `project-context.md`. Common
 | 1.1 | 2026-03-04 | Task Decomposition Protocol (5W + Simulation) added to Session Protocol. Impact Propagation Rule added. |
 | 1.2 | 2026-03-05 | Renamed from `README.md` to `CLAUDE.md` (Anthropic convention). |
 | 1.3 | 2026-03-05 | Sub-task Checkpoint moved to `_briefing/CLAUDE.md` (interaction protocol, not work method). |
+| 1.4 | 2026-03-09 | Section 8 ID Convention: task prefix example updated `TS-` → `T-` (project-wide rename, ESM S-11). |
 
 ---
 
